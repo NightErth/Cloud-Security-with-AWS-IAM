@@ -3,7 +3,6 @@
 
 
 **Author:** NightErth  
-**Email:** patilrushi1217@gmail.com
 
 ---
 
