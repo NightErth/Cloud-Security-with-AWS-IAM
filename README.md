@@ -6,7 +6,7 @@
 
 ---
 
-![Image](http://learn.nextwork.org/stimulated_azure_witty_bear/uploads/aws-security-iam_1c864649)
+![Image](https://github.com/NightErth/Cloud-Security-with-AWS-IAM/blob/main/Cloud-Security-with-AWS-IAM%20Flowchart.png?raw=true)
 
 ---
 
